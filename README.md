@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/Vishnu6101/Vishnu6101/blob/main/github_intro.png" alt="Github Intro">
+
 <!--
 **Vishnu6101/Vishnu6101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
